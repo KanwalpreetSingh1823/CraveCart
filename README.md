@@ -13,7 +13,7 @@
 <p>To run the project locally, follow these steps:</p>
 <ol>
   <li>Clone the repository:</li>
-  <pre><code>git clone https://github.com/your-username/cravecart.git</code></pre>
+  <pre><code>git clone https://github.com/KanwalpreetSingh1823/cravecart.git</code></pre>
 
   <li>Navigate to the project directory:</li>
   <pre><code>cd cravecart</code></pre>
